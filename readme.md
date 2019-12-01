@@ -159,6 +159,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [FUG-BR (FREEBSD USERS GROUP)](https://telegram.me/joinchat/B1OOlAUaPN4y3o13IlJn1w)
 - [LINUX + LPI](https://telegram.me/joinchat/CYyDAT0Jg_EVAEedD9qgsw )
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
+- [LINUX GAMES BR](https://t.me/linuxgamesbr)
+- [LINUX LIVRE (grupo sem banimentos)](https://t.me/linuxlivre)
 - [KDE-BRASIL](https://t.me/kdebrasil)
 - [KDE-BRASIL DEV](https://t.me/KdeBrasilDesenvolvimento)
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
